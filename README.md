@@ -1,4 +1,7 @@
-# E-Commerce AI Store — UDP Web Development Batch 2026
+### Abuzar Arif Ansari  |  UDP_Summer_Internship_Batch-3  |  Abuzar-WebDev-0703  |  UDP_WEB_DEV  | Major Project
+
+# Lumora Furnishing Store — UDP Web Development Batch 2026
+
 
 > A modern AI-powered e-commerce platform built during the UDP Web Development Training & Internship Program. Interns can clone, fork, and build upon this project as they learn full-stack development with cutting-edge technologies.
 
